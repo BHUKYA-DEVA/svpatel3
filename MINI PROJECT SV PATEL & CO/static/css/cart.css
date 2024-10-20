@@ -1,0 +1,121 @@
+
+.cart_3l h6{
+ background: #f4f4f4; 
+ padding:10px 20px 10px 20px;
+ border-bottom:1px solid #f3e7d5;
+ }
+.cart_3l1{
+ border-bottom:1px solid #f3e7d5;
+ padding-bottom:20px;
+ }
+
+.cart_3l1i2 h6{
+display:inline-block;
+margin-right:13px;
+font-weight:bold;
+ }
+
+.cart_3r .head_1{
+ background: #f4f4f4; 
+ padding:10px 20px 10px 20px;
+ border-bottom:1px solid #f3e7d5;
+ text-align:center;
+ }
+.cart_3r .form-control{
+margin-top:15px;
+height:110px;
+border-color:#f3e7d5; 
+box-shadow:none; 
+ }
+.cart_3r1 .form-control{
+margin-top:10px; 
+border-color:#f3e7d5; 
+box-shadow:none;
+ }
+
+.sub_hblog .input-group .form-control{
+height: 51px;
+ }
+ 
+.cart_3l1i2 .form-control{
+width:24%;
+float:left;
+margin-right:15px;
+height:47px;
+ }
+.cart_3l1i2 .button_1{
+padding-top:13px!important;
+padding-bottom:13px!important;
+ }
+.cart_3l1i2 .button_2{
+padding-top:13px!important;
+padding-bottom:13px!important;
+ }
+.center_cart {
+background-image: url(../img/41.jpg);
+background-position: center;
+}
+/*********************cart_end****************/
+
+@media screen and (max-width : 767px){
+.cart_2 h5{
+text-align:center!important; 
+ }
+.cart_3l h6{
+text-align:center;  
+ }
+.cart_3r h6{
+text-align:center;  
+ }
+.cart_3r h5{
+text-align:center;  
+ }
+.cart_3l1i2 .button_1{
+padding-left:10px!important;
+padding-right:10px!important; 
+ }
+.cart_3l1i2 .button_2{
+padding-left:10px!important;
+padding-right:10px!important; 
+ }
+.cart_3r{
+margin-top:15px; 
+ }
+.cart_3l1i2 .form-control {
+margin-bottom:10px;
+}
+ }
+
+
+@media (min-width:576px) and (max-width:767px) {
+.cart_3l1i2 .form-control{
+width:26%; 
+ }
+ }
+@media (min-width:768px) and (max-width:991px) {
+.cart_3l1i2 .form-control{
+width:16%; 
+ }
+.cart_3l1i2 .button_1{
+padding-left:10px!important;
+padding-right:10px!important; 
+ }
+.cart_3l1i2 .button_2{
+padding-left:10px!important;
+padding-right:10px!important; 
+ }
+
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+.cart_3l1i2 .button_1{
+padding-left:10px!important;
+padding-right:10px!important; 
+ }
+.cart_3l1i2 .button_2{
+padding-left:10px!important;
+padding-right:10px!important; 
+ }
+
+
+ }
